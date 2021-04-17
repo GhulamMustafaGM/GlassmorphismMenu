@@ -68,7 +68,7 @@ ul li:nth-last-child(2) a {
     width: 41px;
     height: 41px;
     z-index: 1;
-    transition: 0.5%;
+    transition: 0.5s;
 }
 #marker::before {
     content: '';
